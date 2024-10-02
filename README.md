@@ -122,7 +122,7 @@ https://unit42.paloaltonetworks.com/large-scale-cloud-extortion-operation/
 
 https://www.virusbulletin.com/conference/vb2020/abstracts/take-care-spyware-slipping-your-phones-through-operation-poisoned-news
   
-2023 --  Texas Cyber Summit: William Gamazo --- Threat Actor OPSEC mistakes during a CD/CI container operation
+2023 ---  Texas Cyber Summit: William Gamazo --- Threat Actor OPSEC mistakes during a CD/CI container operation
 
 2024 --- fwcloudsec: William Gamazo, Nathaniel "Q" Quist --- Detecting Cloud Threats with Dynamic Clouds
 
