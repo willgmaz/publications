@@ -120,7 +120,7 @@ https://unit42.paloaltonetworks.com/large-scale-cloud-extortion-operation/
 
 2020 --- virusbulletin: William Gamazo --- Take care, spyware is slipping into your phones through Operation Poisoned News
 
-  https://www.virusbulletin.com/conference/vb2020/abstracts/take-care-spyware-slipping-your-phones-through-operation-poisoned-news
+https://www.virusbulletin.com/conference/vb2020/abstracts/take-care-spyware-slipping-your-phones-through-operation-poisoned-news
   
 2023 --  Texas Cyber Summit: William Gamazo --- Threat Actor OPSEC mistakes during a CD/CI container operation
 
