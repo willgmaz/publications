@@ -131,7 +131,7 @@ https://www.virusbulletin.com/conference/vb2020/abstracts/take-care-spyware-slip
 
 # Patents
 
-US10530788B1 · Issued Oct 26, 2023 --- Detection and prevention of malicious remote file operationsDetection and prevention of malicious remote file operations
+US10530788B1 · Issued Oct 26, 2023 --- Detection and prevention of malicious remote file operations
 
 # Other references:
 
