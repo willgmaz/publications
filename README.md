@@ -101,7 +101,7 @@ https://www.trendmicro.com/en_us/research/21/h/new-campaign-sees-lokibot-deliver
 
 https://unit42.paloaltonetworks.com/peer-to-peer-worm-p2pinfect/
 
-2023 --- William Gamazo, Nathaniel Quist, CloudKeys in the Air: Tracking Malicious Operations of Exposed IAM Keys
+2023 --- William Gamazo, Nathaniel Quist --- CloudKeys in the Air: Tracking Malicious Operations of Exposed IAM Keys
 
 https://unit42.paloaltonetworks.com/malicious-operations-of-exposed-iam-keys-cryptojacking/
 
@@ -109,7 +109,7 @@ https://unit42.paloaltonetworks.com/malicious-operations-of-exposed-iam-keys-cry
 
 https://unit42.paloaltonetworks.com/purpleurchin-steals-cloud-resources/
 
-2024 ---Margaret Kelley, Sean Johnstone, William Gamazo, Nathaniel Quist ---Leaked Environment Variables Allow Large-Scale Extortion Operation in Cloud Environments
+2024 --- Margaret Kelley, Sean Johnstone, William Gamazo, Nathaniel Quist ---Leaked Environment Variables Allow Large-Scale Extortion Operation in Cloud Environments
 
 https://unit42.paloaltonetworks.com/large-scale-cloud-extortion-operation/
 
@@ -126,6 +126,11 @@ https://unit42.paloaltonetworks.com/large-scale-cloud-extortion-operation/
 2024 --- fwcloudsec: William Gamazo, Nathaniel "Q" Quist --- Detecting Cloud Threats with Dynamic Clouds
 
 2024 --- RSA2024: William Gamazo --- Containers Everywhere: Advanced Threat Actors Heavily Leverage Them
+
+
+# Patents
+
+US10530788B1 · Issued Oct 26, 2023 --- Detection and prevention of malicious remote file operationsDetection and prevention of malicious remote file operations
 
 # Other references:
 
