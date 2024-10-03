@@ -1,7 +1,7 @@
 # Publications
 # Blogs
 
-2014 --- Timeline of Sandworm Attacks
+2014 --- William Gamazo --- Timeline of Sandworm Attacks
 
 http://web.archive.org/web/20210729062655/https://blog.trendmicro.com/trendlabs-security-intelligence/timeline-of-sandworm-attacks/
 
@@ -11,7 +11,7 @@ http://blog.trendmicro.com/trendlabs-security-intelligence/bksod-by-ransomware-h
 
 https://web.archive.org/web/20161022114107/http://blog.trendmicro.com/trendlabs-security-intelligence/bksod-by-ransomware-hddcryptor-uses-commercial-tools-to-encrypt-network-shares-and-lock-hdds/
 
-2017 --- CVE-2017-15908: systemd Bug Puts Linux at Risk of DoS Attacks
+2017 --- William Gamazo --- CVE-2017-15908: systemd Bug Puts Linux at Risk of DoS Attacks
 
 https://sensorstechforum.com/cve-2017-15908-systemd-linux/
 
@@ -19,7 +19,7 @@ https://sensorstechforum.com/cve-2017-15908-systemd-linux/
 
 https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-windows-zero-day-flaws-tied-to-dnssec
 
-2017 --- MS17-010: EternalBlue’s Buffer Overflow in SRV Driver
+2017 --- William Gamazo --- MS17-010: EternalBlue’s Buffer Overflow in SRV Driver
 
 https://web.archive.org/web/20210927094928/https://www.trendmicro.com/en_hk/research/17/f/ms17-010-eternalblue.html
 
@@ -41,11 +41,11 @@ https://www.trendmicro.com/en_sg/research/18/c/detecting-attacks-that-exploit-me
 
 https://www.trendmicro.com/en_us/research/19/k/new-exploit-kit-capesand-reuses-old-and-new-public-exploits-and-tools-blockchain-ruse.html
 
-2019 --- New Capesand Exploit Kit Reuses Public Exploits, Tools
+2019 --- William Gamazo --- New Capesand Exploit Kit Reuses Public Exploits, Tools
 
 https://www.trendmicro.com/en_us/research/19/k/new-exploit-kit-capesand-reuses-old-and-new-public-exploits-and-tools-blockchain-ruse.html
 
-2019 --- Capesand Exploit Kit's Tools Seen in KurdishCoder Campaign
+2019 --- William Gamazo --- Capesand Exploit Kit's Tools Seen in KurdishCoder Campaign
 
 https://www.trendmicro.com/en_us/research/19/l/obfuscation-tools-found-in-the-capesand-exploit-kit-possibly-used-in-kurdishcoder-campaign.html
 
@@ -57,7 +57,7 @@ https://www.trendmicro.com/es_es/research/19/c/new-slub-backdoor-uses-github-com
 
 https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/-twin-flower-campaign-jacks-up-network-traffic-downloads-files-steals-data
 
-2020 --- Purple Fox EK Relies on Cloudflare for Stability
+2020 --- William Gamazo --- Purple Fox EK Relies on Cloudflare for Stability
 
 https://www.trendmicro.com/en_us/research/20/i/purple-fox-ek-relies-on-cloudflare-for-stability.html
 
@@ -85,15 +85,15 @@ https://documents.trendmicro.com/assets/Tech-Brief-Operation-Poisoned-News-Hong-
 
 https://www.trendmicro.com/en_us/research/21/g/purplefox-using-wpad-to-targent-indonesian-users.html
 
-2021 --- FormBook Adds Latest Office 365 0-Day Vulnerability (CVE-2021-40444) to Its Arsenal
+2021 --- William Gamazo --- FormBook Adds Latest Office 365 0-Day Vulnerability (CVE-2021-40444) to Its Arsenal
 
 https://www.trendmicro.com/en_us/research/21/i/formbook-adds-latest-office-365-0-day-vulnerability-cve-2021-404.html
 
-2021 --- Water Basilisk Uses New HCrypt Variant to Flood Victims with RAT Payloads
+2021 --- William Gamazo --- Water Basilisk Uses New HCrypt Variant to Flood Victims with RAT Payloads
 
 https://www.trendmicro.com/en_us/research/21/i/Water-Basilisk-Uses-New-HCrypt-Variant-to-Flood-Victims-with-RAT-Payloads.html
 
-2021 --- New Campaign Sees LokiBot Delivered Via Multiple Methods
+2021 --- William Gamazo --- New Campaign Sees LokiBot Delivered Via Multiple Methods
 
 https://www.trendmicro.com/en_us/research/21/h/new-campaign-sees-lokibot-delivered-via-multiple-methods.html
 
