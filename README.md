@@ -128,6 +128,8 @@ https://www.virusbulletin.com/conference/vb2020/abstracts/take-care-spyware-slip
 
 2024 --- RSA2024: William Gamazo --- Containers Everywhere: Advanced Threat Actors Heavily Leverage Them
 
+2024 --- SAS2024: William Gamazo  --- Asteroid Alert!, Possible “Container” Impact: Discovering Threat Actor’s Mistakes when Using Containers Operations.
+
 
 # Patents
 
