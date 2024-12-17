@@ -134,6 +134,7 @@ https://www.virusbulletin.com/conference/vb2020/abstracts/take-care-spyware-slip
 # Patents
 
 US10530788B1 - Issued Oct 26, 2023 --- Detection and prevention of malicious remote file operations
+
 US20240259183A1 - Publication, 2024-08-01 --- Similarity hashing of binary file feature sets for clustering and malicious detection 
 
 # Other references:
