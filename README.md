@@ -113,6 +113,10 @@ https://unit42.paloaltonetworks.com/purpleurchin-steals-cloud-resources/
 
 https://unit42.paloaltonetworks.com/large-scale-cloud-extortion-operation/
 
+2024 --- Shachar Roitman, Ohad Benyamin Maimon, William Gamazo --- Effective Phishing Campaign Targeting European Companies and Institutions
+
+https://unit42.paloaltonetworks.com/european-phishing-campaign/
+
 
 # Talks:
 
