@@ -1,7 +1,7 @@
 # Publications
 # Blogs
 
-2014 --- William Gamazo --- Timeline of Sandworm Attacks
+[2014 --- William Gamazo --- Timeline of Sandworm Attacks](blogs/2014 --- William Gamazo --- Timeline of Sandworm Attacks.pdf)
 
 http://web.archive.org/web/20210729062655/https://blog.trendmicro.com/trendlabs-security-intelligence/timeline-of-sandworm-attacks/
 
