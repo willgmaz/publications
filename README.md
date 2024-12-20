@@ -53,7 +53,7 @@
 
 [2024 --- Margaret Kelley, Sean Johnstone, William Gamazo, Nathaniel Quist ---Leaked Environment Variables Allow Large-Scale Extortion Operation in Cloud Environments](./blogs/2024%20---%20Margaret%20Kelley,%20Sean%20Johnstone,%20William%20Gamazo,%20Nathaniel%20Quist%20---Leaked%20Environment%20Variables%20Allow%20Large-Scale%20Extortion%20Operation%20in%20Cloud%20Environments.pdf)
 
-[2024 --- Shachar Roitman, Ohad Benyamin Maimon, William Gamazo --- ffective Phishing Campaign Targeting European Companies and Organizations](./blogs/2024%20---%20Shachar%20Roitman,%20Ohad%20Benyamin%20Maimon,%20William%20Gamazo%20---%20ffective%20Phishing%20Campaign%20Targeting%20European%20Companies%20and%20Organizations.pdf)
+[2024 --- Shachar Roitman, Ohad Benyamin Maimon, William Gamazo --- Effective Phishing Campaign Targeting European Companies and Organizations](./blogs/2024%20---%20Shachar%20Roitman,%20Ohad%20Benyamin%20Maimon,%20William%20Gamazo%20---%20ffective%20Phishing%20Campaign%20Targeting%20European%20Companies%20and%20Organizations.pdf)
 
 # Talks:
 
@@ -67,7 +67,7 @@
 
 2024 --- RSA2024: William Gamazo --- Containers Everywhere: Advanced Threat Actors Heavily Leverage Them
 
-2024 --- SAS2024: William Gamazo  --- Asteroid Alert!, Possible “Container” Impact: Discovering Threat Actor’s Mistakes when Using Containers Operations.
+2024 --- SAS2024: William Gamazo  --- Asteroid Alert!, Possible “Container” Impact: Discovering Threat Actor's Mistakes when Using Containers Operations.
 
 
 # Patents
