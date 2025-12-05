@@ -69,6 +69,7 @@
 
 2024 --- SAS2024: William Gamazo  --- Asteroid Alert!, Possible “Container” Impact: Discovering Threat Actor's Mistakes when Using Containers Operations.
 
+2025 --- fwdcloudsec: William Gamazo, Nitesh Surana --- The Cloud is a Spider Web: But with Broken Threads
 
 # Patents
 
