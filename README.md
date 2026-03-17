@@ -33,7 +33,7 @@
 
 [2020 --- William Gamazo Sanchez, Aliakbar Zahravi, Elliot Cao, Cedric Pernet, Daniel Lunghi, Jaromir Horejsi, Joseph C Chen, John Zhang --- Operation Earth Kitsune: A Dance of Two New Backdoors](./blogs/2020%20---%20William%20Gamazo%20Sanchez,%20Aliakbar%20Zahravi,%20Elliot%20Cao,%20Cedric%20Pernet,%20Daniel%20Lunghi,%20Jaromir%20Horejsi,%20Joseph%20C%20Chen,%20John%20Zhang%20---%20Operation%20Earth%20Kitsune:%20A%20Dance%20of%20Two%20New%20Backdoors.pdf)
 
-[2020 --- William Gamazo Sanchez  --- Who is the Threat Actor Behind Operation Earth Kitsune?](./blogs/2020%20---%20William%20Gamazo%20Sanchez%20---%20Who%20is%20the%20Threat%20Actor%20Behind%20Operation%20Earth%20Kitsune?.pdf)
+[2020 --- William Gamazo Sanchez  --- Who is the Threat Actor Behind Operation Earth Kitsune?](./blogs/2020%20---%20William%20Gamazo%20Sanchez%20---%20Who%20is%20the%20Threat%20Actor%20Behind%20Operation%20Earth%20Kitsune.pdf)
 
 [2020 --- Elliot Cao, Joseph C. Chen, William Gamazo Sanchez, Lilang Wu, and Ecular Xu --- Operation Poisoned News:Hong Kong Users Targeted with Mobile Malware via Local News Links](./blogs/2020%20---%20Elliot%20Cao,%20Joseph%20C.%20Chen,%20William%20Gamazo%20Sanchez,%20Lilang%20Wu,%20and%20Ecular%20Xu%20---%20Operation%20Poisoned%20News:Hong%20Kong%20Users%20Targeted%20with%20Mobile%20Malware%20via%20Local%20News%20Links.pdf)
 
