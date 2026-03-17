@@ -142,3 +142,6 @@ https://unit42.paloaltonetworks.com/large-scale-cloud-extortion-operation/
 https://unit42.paloaltonetworks.com/european-phishing-campaign/
 
 https://www.virusbulletin.com/conference/vb2020/abstracts/take-care-spyware-slipping-your-phones-through-operation-poisoned-news
+
+https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/cracking-the-isolation-novel-docker-desktop-vm-escape-techniques-under-wsl2
+
