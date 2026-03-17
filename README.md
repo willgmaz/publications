@@ -55,6 +55,8 @@
 
 [2024 --- Shachar Roitman, Ohad Benyamin Maimon, William Gamazo --- Effective Phishing Campaign Targeting European Companies and Organizations](./blogs/2024%20---%20Shachar%20Roitman,%20Ohad%20Benyamin%20Maimon,%20William%20Gamazo%20---%20ffective%20Phishing%20Campaign%20Targeting%20European%20Companies%20and%20Organizations.pdf)
 
+[2026 --- William Gamazo, Nitesh Surana --- Cracking the Isolation_ Novel Docker Desktop VM Escape Techniques Under WSL2](./blogs/2026%20---%20William%20Gamazo,%20Nitesh%20Surana%20---%20Cracking%20the%20Isolation_%20Novel%20Docker%20Desktop%20VM%20Escape%20Techniques%20Under%20WSL2.pdf)
+
 # Talks:
 
 [2017 --- BsidesOttawa: William Gamazo --- Dissecting Non-Petya Not-Ransomware](./talks/2017%20---%20William%20Gamazo%20---%20Dissecting%20Non-Petya%20Not-Ransomware.pdf)
