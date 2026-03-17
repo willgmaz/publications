@@ -61,7 +61,7 @@
 
 [2017 --- BsidesOttawa: William Gamazo --- Dissecting Non-Petya Not-Ransomware](./talks/2017%20---%20William%20Gamazo%20---%20Dissecting%20Non-Petya%20Not-Ransomware.pdf)
 
-2020 --- virusbulletin: William Gamazo --- Take care, spyware is slipping into your phones through Operation Poisoned News
+[2020 --- virusbulletin: William Gamazo --- Take care, spyware is slipping into your phones through Operation Poisoned News](./talks/2020%20---%20virusbulletin:%20William%20Gamazo%20---%20Take%20care,%20spyware%20is%20slipping%20into%20your%20phones%20through%20Operation%20Poisoned%20News.pdf)
   
 2023 ---  Texas Cyber Summit: William Gamazo --- Threat Actor OPSEC mistakes during a CD/CI container operation
 
